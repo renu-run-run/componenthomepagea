@@ -1,5 +1,5 @@
 
-# Search Product
+# Uses Component
 
 A simple page that uses the concept of component.
 # Technologies Used
